@@ -1,0 +1,59 @@
+Phase 2: Scope
+
+Content Requirements
+The business will be able to import their stocks using a stock market plug in. Businesses will also be able to post content for their ‘followers’ to view, like marketing videos or post they have made on FaceBook. This content will be posted on a person’s dashboard, if they follow you, which can constantly keep them updated on a company's progress. The other content will be used to educate and inform people about the stock market. We want to make sure that each user has a great understanding of the stock market and how the have a financial responsibility to the economy. 
+
+Functional Specifications
+There is functionality for both the business and the person that buys stocks. 
+The functionality for the business is:
+Create account
+Business Profile
+Create tags for people to easily identify their business
+Marketing Video
+Post Infographics or other supporting media of their stocks
+The functionality for the person is: 
+  Create account
+    Personal Profile: Name, Address, Bank Account Info, Privacy Settings
+    Browse and filter out businesses that you would want to invest in
+    Receive ‘Recommended’ business’ to invest in, which are based on the results from a quiz. 
+      The quiz finds the type of industries and companies that would be most interesting to that person
+  Find information on the Stock Market
+     The basic rules and regulations on operating the stock market through text and images
+  Invest into Businesses
+    Once they have found a business, they can also see related businesses as well
+    Use a built-in tool calculator that can help people, as they are investing, to see how far x amount of money will go in y     amount of years
+    Use their bank information to purchase stocks in a business
+    Be able to ‘follow’ businesses
+    These businesses that you follow will be on your dashboard with current daily numbers of their stocks and other               interesting information
+      
+Research and Link Tutorials on the stock market
+Naida
+4/21/17
+**  Must be Easy for average person to understand
+
+
+Create Business Companies profile
+Rahni
+4/23/17
+
+Build or Use online tool calculator
+Bre
+4/24/17
+
+**May have to collaborate with this task if member have to build tool herself
+Create Quiz for for New User Companies
+Rahni
+4/23/17
+
+User be able to buy stocks 
+Bre/Nai/Rahni
+Deadline
+
+
+Scenarios
+	Scenario 1: Roxy (43), a working mother of three, spends the majority of her time either at work or raising her children. She hasn’t had extensive training using a computer and doesn’t spend much time on her phone. She is interested in investing on the go because she is worried about her lack of retirement savings. She has a basic understanding of the finance world and is looking to gain knowledge of it within the time her busy schedule permits. 
+	Roxy is attempting to navigate the website quickly while multi-tasking. One aspect that she thinks would help her accomplish this goal is a clean layout with elements that help grab the attention of important information within the website (i.e. bigger graphics for categories, visuals, different font/bolded font for important words). Since she is on the go, she would like to be able to receive notifications from the app giving a small summary of her net gains/losses at a set time each day. 
+Roxy’s first concern when accessing the website is receiving a brief overview on how the investment process would work, receiving a deeper knowledge of money in general, and (perhaps) having a quick tutorial on how to navigate the website. Security is also an issue of concern for Roxy. She has heard of hackers stealing the login credentials of users of similar sites in the past and wants to be guaranteed that this will not be an issue while using the website and app, especially since it will potentially be linked to her bank. 
+Since Roxy has limited knowledge of the investment world, she would like the ability to be matched with a company that aligns with her personal interests. Once she receives a list of the companies that she matched with, she expects to be able to read a short summary of the company's goals, mission statement, and philosophies. Once she settles on a company, Roxy expects to be able to invest within two or three clicks. As an added feature, a detailed monthly report with a graphical representation of her progress for the month would be helpful when she has the time to sit down.
+	Scenario 2: Johnny (16), is a high school student who just finished an introductory finance class. He has experience using modern technology proficiently and spends a lot of time on his phone. He is looking for a simple, informational, and aesthetically pleasing website to use when investing; less words, more pictures.
+	Johnny has no trouble navigating the website and app, but primarily finds himself using the app more. He appreciates the shortcuts in life and would like to be able to access his account using the Touch ID feature on his phone. The aesthetics of the app and website are important to him, so it is essential that the two products be designed with that in mind (contemporary, clean, semi-colorful layout that utilizes graphics). When finding a company to invest in, videos that show the company's vision would be a nice feature. As far as finding the right company for him, he would like the opportunity to complete a quiz that pairs him up with a complementary company. Same as Roxy, he would like to be able to invest in two to three clicks, with the added option to update his social media handles with the information that he has just invested. 
